@@ -1,1 +1,1 @@
-FROM sentry:9.1.2
+From sentry:9.1.2
