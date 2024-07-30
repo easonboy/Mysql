@@ -1,1 +1,1 @@
-From sentry:9.1.2
+From docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
